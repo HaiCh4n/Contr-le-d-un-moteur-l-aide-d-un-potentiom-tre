@@ -1,1 +1,4 @@
-# Contr-le-d-un-moteur-l-aide-d-un-potentiom-tre
+#Some practice with potential
+
+
+// Control a moteur by the held of potention
